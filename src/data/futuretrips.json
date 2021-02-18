@@ -1,0 +1,18 @@
+[ {
+    "img": "../assets/images/travel-9.jpg",
+    "alt": "Budapest, Hungary",
+    "name": "Budapest, Hungary",
+    "button": "Prices"
+},
+{
+    "img": "../assets/images/travel-10.jpg",
+    "alt": "Vienna, Austria",
+    "name": "Vienna, Austria",
+    "button": "Prices"
+},
+{
+    "img": "../assets/images/travel-11.jpg",
+    "alt": "Prague, Czechia",
+    "name": "Prague, Czechia",
+    "button": "Prices"
+}]

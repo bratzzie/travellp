@@ -1,0 +1,53 @@
+[
+    {
+        "img": "../assets/images/travel-1.jpg",
+        "alt": "Bali, Indonesia",
+        "name": "Bali, Indonesia",
+        "button": "Visit Now"
+    },
+
+    {
+        "img": "../assets/images/travel-2.jpg",
+        "alt": "Bergen, Norway",
+        "name": "Bergen, Norway",
+        "button": "Visit Now"
+    },
+
+    {
+        "img": "../assets/images/travel-3.jpg",
+        "alt": "San Francisco, USA",
+        "name": "San Francisco, USA",
+        "button": "Visit Now"
+    },
+
+    {
+        "img": "../assets/images/travel-4.jpg",
+        "alt": "Giza Desert, Egypt",
+        "name": "Giza Desert, Egypt",
+        "button": "Visit Now"
+    },
+    {
+        "img": "../assets/images/travel-5.jpg",
+        "alt": "Moraine Lake, Alberta",
+        "name": "Moraine Lake, Alberta",
+        "button": "Visit Now"
+    },
+    {
+        "img": "../assets/images/travel-6.jpg",
+        "alt": "Eiffel Tower, Paris",
+        "name": "Eiffel Tower, Paris",
+        "button": "Visit Now"
+    },
+    {
+        "img": "../assets/images/travel-7.jpg",
+        "alt": "Moscow, Russia",
+        "name": "Moscow, Russia",
+        "button": "Visit Now"
+    },
+    {
+        "img": "../assets/images/travel-8.jpg",
+        "alt": "Dambulla, Sri Lanka",
+        "name": "Dambulla, Sri Lanka",
+        "button": "Visit Now"
+    }
+]
